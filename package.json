@@ -1,6 +1,6 @@
 {
   "name": "@skywalk3r/how-to-npm",
-  "version": "4.0.0",
+  "version": "2.0.0",
   "description": "How to NPM for Nodeschool.io",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,5 @@
     "url": "https://github.com/darioberlancic/how-to-npm/issues"
   },
   "homepage": "https://github.com/darioberlancic/how-to-npm#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }

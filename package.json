@@ -19,5 +19,7 @@
     "url": "https://github.com/darioberlancic/how-to-npm/issues"
   },
   "homepage": "https://github.com/darioberlancic/how-to-npm#readme",
-  "dependencies": {}
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3"
+  }
 }
